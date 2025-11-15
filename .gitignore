@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore Chroma vector database
+db/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
