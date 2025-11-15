@@ -26,7 +26,7 @@ Anyone who wants to run your RAG chatbot can follow these steps.
 
 Open a terminal and run:
 
-git clone https://github.com/maneesh9392/AmbedkarGPT-RAG.git
+git clone https://github.com/Anchalde/AmbedkarGPT.git
 cd AmbedkarGPT-RAG
 
 🐍 2. Create a Virtual Environment
