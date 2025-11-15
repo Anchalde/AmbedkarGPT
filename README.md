@@ -1,6 +1,6 @@
 # AmbedkarGPT - AI Intern Assignment (Kalpit Pvt Ltd)
 
-### 👨‍💻 Author: Maneesh Reddy Alugupalli (Nick)
+### 👨‍💻 Author: Anchal devi
 
 ## Overview
 This is a **Retrieval-Augmented Generation (RAG)** system built with **LangChain**, **ChromaDB**, **HuggingFace embeddings**, and **Ollama (Mistral 7B)**.
